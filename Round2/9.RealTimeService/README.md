@@ -1,0 +1,2 @@
+实时服务
+OutputShowMusicians:通过mr计算框架，输出到hbase，通过hbase可以实现实时查询数据
